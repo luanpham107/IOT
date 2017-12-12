@@ -1,0 +1,5 @@
+# Developer guide:
+https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html
+
+# AWS IoT SDKs
+https://docs.aws.amazon.com/iot/latest/developerguide/iot-sdks.html#iot-android-sdk

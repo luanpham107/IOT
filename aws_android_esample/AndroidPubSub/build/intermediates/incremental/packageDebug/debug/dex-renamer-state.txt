@@ -1,0 +1,4 @@
+#Tue Dec 12 17:02:21 ICT 2017
+base.0=D\:\\05_Projects\\Android\\aws-sdk-android-samples\\AndroidPubSub\\build\\intermediates\\transforms\\dexMerger\\debug\\38
+path.0=classes.dex
+renamed.0=classes.dex
